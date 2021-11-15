@@ -1,4 +1,4 @@
-# test
+# vue-router-test
 
 ## Project setup
 ```
